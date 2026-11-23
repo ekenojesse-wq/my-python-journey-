@@ -1,5 +1,20 @@
 #my-python-journey
  *lesson:
+Hi!I go by the name Jesse.
+ #What I learn
+ 1.introduction to python.
+ 2.Variables.
+ 3.Data types.
+ 4.conditional statements.
+ 5.loops.
+ 6.functions.
+ 7.github/kilehoot.
+
+  ##projects
+-S.P.C=student performance check.
+-python exercise.
+  ##Goal
+-to be a better programmer and a good algorithmic thinker.
 
 Skip to content
 
